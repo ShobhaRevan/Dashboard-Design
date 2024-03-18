@@ -1,0 +1,24 @@
+.component_one{
+    padding-bottom: 5%;
+}
+.component_one_cards{
+    padding-top: 2%;
+}
+.cmp_one_card{
+    box-shadow: 0px 2px 2px;
+}
+.component_six{
+    padding-top: 5%;
+}
+.component_six_table{
+    padding-top: 3%;
+}
+.ant-progress-circle-path{
+    stroke-dashoffset: 90!important;
+}
+.ant-progress-inner{
+    width: 300px!important;
+}
+.css-1a8zxh7-MuiAreaElement-root{
+    fill: white!important;
+}
